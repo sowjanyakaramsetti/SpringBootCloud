@@ -1,0 +1,1 @@
+Its just properties file
